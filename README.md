@@ -1,7 +1,4 @@
 ## <span style="color: #c2d5aa; font-weight: bold">Hi There 👋🏼 </span>
-
-### <span style="color: #ffa670; font-weight: bold;">I'm Subhadeep Das 👨🏻‍💻 📱</span>
-
 ##### <span style="color: lightblue; font-weight: bold">Developer Information</span>
 
 - <span style="color: violet; font-weight: bold;">Tech Stacks - </span> Cross Platform App Development
