@@ -9,7 +9,7 @@
 
 - React Native - [Nectarful AI](https://github.com/sd535682/Nectarful-Ai) [Beta], [Ecommerce](https://github.com/sd535682/Ecommerce-App-UI), [Mood Quotes](https://github.com/sd535682/Mood_Quotes)
 - Browser Extension - [Cloud Cover](https://github.com/sd535682/Cloud_Cover) [Chrome/Edge/Firefox]
-- React JS - [Form Validation](https://github.com/sd535682/Form-Validation-ReactJS)
+- React JS - [Form Validation](https://github.com/sd535682/Form-Validation-ReactJS), [Simple To-Do](https://github.com/sd535682/To-Do-App)
 - Webapp - [APOD](https://github.com/sd535682/Apod_API), [Weather Watch](https://github.com/sd535682/Weather_Watch)
 - Machine Learning - [Lung Segmentation](https://github.com/sd535682/Lungs_Segmentation)
 
